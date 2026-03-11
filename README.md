@@ -42,6 +42,7 @@ I believe infrastructure should be:
 
 ## 📝 Recent Writing & Talks
 
+- [**"INFITX Builds Zero-Touch Kubernetes Networking with NetBird"**](https://netbird.io/knowledge-hub/infitx) - Learn how INFITX automated private networking across on-prem and AWS environments using NetBird, Kubernetes Operators, and Crossplane
 - [**"Addressing the Challenges for Mojaloop On-Premise Deployments"**](https://www.infitx.com/addressing-the-challenges-for-mojaloop-on-premise-deployments/) – Technical deep-dive on infrastructure for financial inclusion
 - [**KubeCon / Open Source Summit Presentation**](https://www.youtube.com/watch?v=iEXpPIMpztw) – Platform engineering for cross-border payments
 - [**Panel Discussion: Infrastructure for Financial Inclusion**](https://youtu.be/lg0XGcxtUJs?t=3176) – Managed and collaborated content
